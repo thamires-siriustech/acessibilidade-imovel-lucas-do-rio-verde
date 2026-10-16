@@ -15,15 +15,15 @@ Análise de dados que cruza o preço dos imóveis de Lucas do Rio Verde (MT) com
 
 ## Principais resultados
 
-- O imóvel típico (R$ 540 mil) exige, para ser financiado, uma renda familiar de cerca de **R$ 13 mil/mês — perto de 8 salários mínimos** — além de R$ 108 mil de entrada (20%, 30 anos, ~11% a.a.).
+- O imóvel típico da amostra (mediana de R$ 540 mil) exige, no cenário assumido, renda familiar de cerca de **R$ 13 mil/mês — perto de 8 salários mínimos** — além de R$ 108 mil de entrada (20%, 30 anos, ~11% a.a.).
 - Em anos de renda integral, ele custa de **3,5 anos** (família de 8 SM) a quase **14 anos** (família de 2 SM) — acima da linha de 5 anos que marca, internacionalmente, um mercado severamente inacessível (índice Demographia).
-- Mercado segmentado por renda: **4 salários mínimos alcançam ~2% dos imóveis; 8 SM chegam a 50%; só 10 SM alcançam a maioria (74%).**
+- Mercado segmentado por renda: **4 salários mínimos alcançam ~2% dos imóveis; 8 SM chegam a 50%; 10 SM alcançam cerca de 74% da amostra.**
 - Frente ao rendimento médio individual de Mato Grosso (R$ 3.402, PNAD/IBGE), o imóvel típico equivale a cerca de 13 anos de renda.
-- Fecha a trilogia: a cidade cresceu, construiu menos do que precisava, os preços subiram a patamar de capital — e morar nela ficou caro demais para a renda local típica.
+- Fecha a série de quatro análises: crescimento populacional, oferta social, preços anunciados e acessibilidade sob diferentes faixas de renda.
 
 ## Metodologia
 
-1. **Base de preços** — dataset da Camada 3 (236 anúncios de 13 imobiliárias, out/2026).
+1. **Base de preços** — dataset da Camada 3 (233 anúncios após remoção de duplicatas exatas, 13 fontes, out/2026).
 2. **Âncoras de renda** — salário mínimo 2026 (R$ 1.621) e rendimento médio mensal de Mato Grosso (R$ 3.402/pessoa, PNAD Contínua/IBGE 2024). Como o IBGE não publica uma renda familiar fechada para Lucas, a acessibilidade é calculada **em função da renda**, por faixa, em vez de cravar um único número local.
 3. **Indicadores** — anos de renda para comprar o imóvel típico; simulação de financiamento (parcela e renda necessária); teto de imóvel financiável por faixa de renda e fatia do mercado alcançada.
 
