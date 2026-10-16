@@ -15,6 +15,8 @@ Análise de dados que cruza o preço dos imóveis de Lucas do Rio Verde (MT) com
 
 ## Principais resultados
 
+> Os resultados abaixo são cenários construídos com premissas explícitas, não uma previsão de crédito ou uma medição exata da renda familiar de Lucas do Rio Verde.
+
 - O imóvel típico da amostra (mediana de R$ 540 mil) exige, no cenário assumido, renda familiar de cerca de **R$ 13 mil/mês — perto de 8 salários mínimos** — além de R$ 108 mil de entrada (20%, 30 anos, ~11% a.a.).
 - Em anos de renda integral, ele custa de **3,5 anos** (família de 8 SM) a quase **14 anos** (família de 2 SM) — acima da linha de 5 anos que marca, internacionalmente, um mercado severamente inacessível (índice Demographia).
 - Mercado segmentado por renda: **4 salários mínimos alcançam ~2% dos imóveis; 8 SM chegam a 50%; 10 SM alcançam cerca de 74% da amostra.**
@@ -57,7 +59,7 @@ acessibilidade-imovel-lucas-do-rio-verde/
 ## Limitações
 
 - **Preço de anúncio, não de venda** — valor pedido, geralmente acima do fechamento.
-- **Sem renda familiar municipal fechada** — por isso a análise é feita por faixa de renda, ancorada no salário mínimo e no rendimento médio de MT; é um retrato da relação preço/renda, não da renda exata da cidade.
+- **Sem renda familiar municipal fechada** — a análise usa faixas de renda, o salário mínimo e o rendimento médio individual de Mato Grosso. Os percentuais descrevem a amostra de anúncios, não a capacidade de compra comprovada de cada família da cidade.
 - **Parâmetros de financiamento assumidos** (entrada 20%, 30 anos, 10–12% a.a., Price, parcela em 30% da renda) — premissas padrão de mercado; condições reais variam por banco e programa (ex.: Minha Casa Minha Vida).
 - **Renda familiar, não individual** — os cenários supõem a renda somada da família.
 
