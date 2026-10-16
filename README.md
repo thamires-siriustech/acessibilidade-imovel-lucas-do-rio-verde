@@ -1,8 +1,8 @@
 # Dá pra morar em Lucas? Preço dos imóveis x renda — a conta da acessibilidade
 
-Análise de dados que cruza o preço dos imóveis de Lucas do Rio Verde (MT) com a renda local para medir a acessibilidade: quanto um imóvel custa em anos de renda, e que renda familiar é preciso ter para financiá-lo.
+Análise de dados que cruza preços anunciados de imóveis em Lucas do Rio Verde (MT) com faixas de renda de referência para investigar acessibilidade: quanto um imóvel custa em anos de renda e qual renda seria necessária em um cenário de financiamento.
 
-> **Pergunta de negócio:** Com a renda praticada na região, quem consegue comprar um imóvel em Lucas do Rio Verde hoje — e de quanto precisa ser a renda familiar para isso?
+> **Pergunta de negócio:** Para diferentes faixas de renda familiar de referência, que parcela dos imóveis anunciados poderia caber no orçamento de uma simulação de financiamento?
 
 ---
 
